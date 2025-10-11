@@ -7,7 +7,7 @@
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=flat&logo=discord)](https://discord.com/invite/dwG9jPrhxB)
 [![X](https://img.shields.io/badge/X(Twitter)-@mcp__router-1DA1F2?style=flat&logo=x)](https://twitter.com/mcp_router)
 
-[English | [日本語](https://github.com/mcp-router/mcp-router/blob/main/README_ja.md)]
+[English | [日本語](https://github.com/mcp-router/mcp-router/blob/main/README_ja.md) | [中文](https://github.com/mcp-router/mcp-router/blob/main/README_zh.md)]
 
 </div>
 
